@@ -69,8 +69,8 @@ Retinal-AI-Lesion-Detector/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Retinal-AI-Lesion-Detector.git
-cd Retinal-AI-Lesion-Detector
+git clone https://github.com/Saaketh36/Retinal-AI-Dual-Model-Lesion-Detector.git
+cd Retinal-AI-Dual-Model-Lesion-Detector
 ```
 
 ### 2. Install Dependencies
